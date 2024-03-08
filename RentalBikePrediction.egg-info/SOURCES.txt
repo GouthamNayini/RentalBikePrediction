@@ -1,0 +1,7 @@
+setup.py
+RentalBikePrediction.egg-info/PKG-INFO
+RentalBikePrediction.egg-info/SOURCES.txt
+RentalBikePrediction.egg-info/dependency_links.txt
+RentalBikePrediction.egg-info/requires.txt
+RentalBikePrediction.egg-info/top_level.txt
+src/__init__.py
