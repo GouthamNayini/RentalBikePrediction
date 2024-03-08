@@ -1,3 +1,4 @@
+README.md
 setup.py
 RentalBikePrediction.egg-info/PKG-INFO
 RentalBikePrediction.egg-info/SOURCES.txt
@@ -5,3 +6,13 @@ RentalBikePrediction.egg-info/dependency_links.txt
 RentalBikePrediction.egg-info/requires.txt
 RentalBikePrediction.egg-info/top_level.txt
 src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformationb.py
+src/components/model_trainer.py
+src/pipelines/__init__.py
+src/pipelines/prediction_pipeline.py
+src/pipelines/training_pipeline.py
